@@ -1,4 +1,4 @@
-<h2 align="center">Hey 👋 I'm Wail Hassan<br>      Business Analyst & Data Explainologest</h2>
+<h2 align="center">Hey 👋 I'm Wail Hassan<br>      Data Analyst & Business Analyst</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">Connect with:</h6>
+<h5 align="left">Connect with:</h5>
 
 ###
 
@@ -24,11 +24,11 @@
 
 ###
 
-<p align="left">📦 I Can provide the below: <br><br>⭐️end to end data exploratory including extracting, gathering, cleaning, processing, analyzing, and visualizing data. <br>⭐️Problem solving strategies using data-driven approaches. <br>⭐️Machine Learning Modeling using Predictive approaches and classification algorithms if needed. ⭐️Statistical analysis, including descriptive statistics and hypothesis testing to assess models features and evaluate models performance.<br> ⭐️Create clear, interactive, dynamic, and informative data visualizations, such as charts, graphs, and <br> dashboards, to communicate findings to non-technical stakeholders. <br>⭐️Project planning, management, and documentation.</p>
+<p align="left">📦 I Can provide the below: <br><br>⭐️end to end data exploratory including extracting, gathering, cleaning, processing, analyzing, and visualizing data. <br>⭐️Problem solving strategies using data-driven approaches. <br>⭐️Machine Learning Modeling using Predictive approaches and classification algorithms if needed. <br> ⭐️Statistical analysis, including descriptive statistics and hypothesis testing to assess models features and evaluate models performance.<br> ⭐️Create clear, interactive, dynamic, and informative data visualizations, such as charts, graphs, and dashboards, to communicate findings to non-technical stakeholders. <br>⭐️Project planning, management, and documentation using agile methodologies.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">I code with</h3>
 
 ###
 
