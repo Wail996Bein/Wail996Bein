@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔍 As a Senior Data Analyst: <br>📜 | Certified Google Data Analytics| Certified Advanced Google Data Analytics | Certified PMI- PMP | Certified PMI-PBA <br>🏆| Experienced in Business Intelligence tools (Power BI, Looker, Excel)<br> 🏆| Experienced in Python, SQL, and R programming Languages. <br>🏆| Experienced in Machine Learning Modeling. <br>🤝| Familiar with healthcare, Telecom, Real Estate, Marketing, Wholesale</p>
+<p align="left">🔍 As a Senior Data Analyst: <br>📜 | Certified Google Data Analytics| Certified Advanced Google Data Analytics | Certified PMI- PMP | Certified PMI-PBA | Certified CSM | Certified CSPO | Certified SAFe 0.6 POPM <br>🏆| Experienced in Business Intelligence tools (Power BI, Looker, Excel)<br> 🏆| Experienced in Python, SQL, and R programming Languages. <br>🏆| Experienced in Machine Learning Modeling. <br>🤝| Familiar with healthcare, Telecom, Real Estate, Marketing, Wholesale</p>
 
 ###
 
